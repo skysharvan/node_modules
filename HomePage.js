@@ -5,5 +5,5 @@ let link = "https://www.espncricinfo.com/series/icc-women-s-championship-2017-18
 request(link , cb);
 
 function cb(error , response , html){
-    console.log(html)
+    // console.log(html)
 }
